@@ -1,3 +1,5 @@
+**Note:** this repository is no longer under active development. 
+
 # jquery.dragscroll.js #
 ## a scrolling plugin for the jQuery JavaScript Library ##
 
